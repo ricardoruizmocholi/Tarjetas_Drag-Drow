@@ -4,7 +4,7 @@
 
 **Plantillas** es una aplicación web tipo SaaS diseñada para la organización personal y profesional mediante tableros dinámicos. Permite gestionar múltiples espacios de trabajo, personalizar tarjetas y organizar prioridades de forma intuitiva.
 
-![Licencia](https://img.shields.io/badge/license-MIT-blue)
+![Licencia](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![Stack](https://img.shields.io/badge/stack-PHP%20%7C%20JS%20%7C%20SQLite-orange)
 
 ##  Características Principales
